@@ -7,6 +7,8 @@
   - `split_amount` - Amount each person person will be creditted for the split in gp
   - `@user` - Discord user using mentions (@)
 
+- `!shutdown`
+  - Shuts down the bot script
 
 ## More Info
 - Created by Resyker
