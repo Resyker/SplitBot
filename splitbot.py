@@ -69,5 +69,5 @@ async def update_user_split(ctx, users, user, splitamount):
 	users[uid]["total"] = int(users[uid]["total"]) + int(splitamount)
 	users[uid]["number_of_splits"] = int(users[uid]["number_of_splits"]) + 1
 
-
-client.run('ODMyNjAyNzk1MDIxOTU5MTc4.YHmLxw.r_31TfJ1GSabxQfqPyfRZtTZ2Y4')
+#Uncomment this with bot token
+##client.run()
